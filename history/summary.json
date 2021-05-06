@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/awareness.cybsecure.org",
     "slug": "awareness",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 501,
     "timeDay": 690,
     "timeWeek": 501,
@@ -36,5 +36,23 @@
     "dailyMinutesDown": {
       "2021-05-02": 9
     }
+  },
+  {
+    "name": "Youtube",
+    "url": "https://www.youtube.com",
+    "icon": "https://favicons.githubusercontent.com/www.youtube.com",
+    "slug": "youtube",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 688,
+    "timeDay": 688,
+    "timeWeek": 688,
+    "timeMonth": 688,
+    "timeYear": 688,
+    "dailyMinutesDown": {}
   }
 ]
