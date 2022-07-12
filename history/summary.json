@@ -40,7 +40,7 @@
     "url": "https://hackers.mu/",
     "icon": "https://favicons.githubusercontent.com/hackers.mu",
     "slug": "hackers-mu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 470,
     "timeMonth": 502,
     "timeYear": 502,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-12": 0
+    }
   }
 ]
